@@ -1,5 +1,5 @@
 # HeroAPI
-API construída em Nest.JS para o cadastro de uma base geral de Super heróis
+API construída em Nest.JS para o cadastro de uma base geral de Super Heróis
 
 
 ---
@@ -51,7 +51,7 @@ https://www.canva.com/design/DAGMvbkSn34/xndrj2HETBwdmhntErOznw/edit?utm_content
 
 ### Criação do Serviço
 ``` powershell
-nest generate service heroes
+nest generate service hero
 ```
 ### Criação do Controller
 ``` powershell
